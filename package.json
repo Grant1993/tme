@@ -1,0 +1,27 @@
+{
+  "name": "tme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grant1993/tme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Grant1993/tme/issues"
+  },
+  "homepage": "https://github.com/Grant1993/tme#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "jsdom": "^20.0.1"
+  }
+}
